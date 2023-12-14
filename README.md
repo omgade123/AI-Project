@@ -1,2 +1,1 @@
-# AI-Project
-A Facial Recognition Application for attendance
+# face_recognition_project
